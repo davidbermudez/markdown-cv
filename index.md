@@ -6,7 +6,7 @@ title: David Bermúdez CV
 Eterno estudiante
 
 <div id="webaddress">
-<a href="davidbermudez@jerez.es">email</a>
+<a href="mailto:davidbermudez@jerez.es">email</a>
 | <a href="http://davidbermudez.es">web</a>
 </div>
 
@@ -21,16 +21,15 @@ HTML, CSS, Javascript, Java, PHP, Symfony, MySQL
 
 ### Intereses
 
-Amante de las ciencias, las nuevas tecnologías, la astronomía y la cerveza
+Amante de las ciencias, las nuevas tecnologías, astronomía, programación y... la cerveza
 
 ## Educación
 
-`1986-1989`
+`1986-1990`
 __IES Caballero Bonald, Jerez de la Frontera__
 
 ## Ocupación
 
-`1990-2019`
 __Funcionario Ministerio del Interior__, destinos en:
 - Bornos `1992-1994`
 - Jerez de la Frontera `1994-1997`
@@ -41,5 +40,3 @@ __Funcionario Ministerio del Interior__, destinos en:
 <!-- ### Footer
 
 Last updated: Nov 2018 -->
-
-
