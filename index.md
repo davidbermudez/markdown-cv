@@ -35,7 +35,7 @@ __Funcionario Ministerio del Interior__, destinos en:
 - Jerez de la Frontera `1994-1997`
 - La Barca de la Florida `1997-2000`
 - Cádiz `2000-2007`
-- Arcos de la Frontera (Cádiz) `2007-Actualidad`
+- Arcos de la Frontera `2007-Actualidad`
 
 <!-- ### Footer
 
