@@ -13,7 +13,7 @@ Eterno estudiante
 
 ## Actualmente
 
-Estudiando grado superior de desarrollo de aplicaciones web
+Estudiando Ciclo Superior de Desarrollo de Aplicaciones Web
 
 ### Conocimientos 
 
@@ -28,10 +28,15 @@ Amante de las ciencias, las nuevas tecnologías, la astronomía y la cerveza
 `1986-1989`
 __IES Caballero Bonald, Jerez de la Frontera__
 
-## Occupation
+## Ocupación
 
 `1990-2019`
-__Guardia Civil__, Cádiz
+__Funcionario Ministerio del Interior__, destinos en:
+- Bornos `1992-1994`
+- Jerez de la Frontera `1994-1997`
+- La Barca de la Florida `1997-2000`
+- Cádiz `2000-2007`
+- Arcos de la Frontera (Cádiz) `2007-Actualidad`
 
 <!-- ### Footer
 
