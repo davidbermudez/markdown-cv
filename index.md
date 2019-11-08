@@ -3,7 +3,7 @@ layout: cv
 title: David Bermúdez CV
 ---
 # David Bermúdez
-Eterno estudiante
+Eterno aprendiz
 
 <div id="webaddress">
 <a href="mailto:davidbermudez@jerez.es">email</a>
